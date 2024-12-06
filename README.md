@@ -24,3 +24,14 @@ Author: Øivind Hodnebrog
 These data are documented in the article [Myhre et al. 2018](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018GL079474)
 
 Author: Gunnar Myhre
+
+## Aerosol direct radiative forcing kernel
+
+* The file VP_NRF_4D_L60_V2_MM.nc contains 4D fields (lon, lat, lev, month) of normalized direct radiative forcing per unit aerosol mass, for three species:
+  - nrf_bcff: BC aerosols from fossil fuel emissions
+  - nrf_oc: Organic carbon aerosols
+  - nrf_so4: Sulfate aerosols
+
+The calculations and the radiative properties assumed for the aerosols are documented in [Samset and Myhre 2011, GRL](https://doi.org/10.1029/2011GL049697)
+
+Author: Bjørn H. Samset and Gunnar Myhre
