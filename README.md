@@ -9,9 +9,11 @@ Netcdf files containing data for radiative kernels.
 
 * The file NFRO3v6_TOA_OsloRF.nc is the same as NFRO3v6_OsloRF.nc except that it is for top-of-atmosphere (TOA) forcing instead of tropopause.
 
+* The file aerocom.OsloCTM2.A2.CTRL.monthly.levelheight.nc specifies the monthly pressure and level heights of the ozone kernel
+
 The data are documented in the article [Skeie et al. 2020](https://www.nature.com/articles/s41612-020-00131-0) and and Collins et al. (in prep.)
 
-Author: Øivind Hodnebrog
+Author: Ã˜ivind Hodnebrog and Ragnhild B. Skeie
 
 ## PDRMIP kernel data
 
@@ -34,4 +36,4 @@ Author: Gunnar Myhre
 
 The calculations and the radiative properties assumed for the aerosols are documented in [Samset and Myhre 2011, GRL](https://doi.org/10.1029/2011GL049697)
 
-Author: Bjørn H. Samset and Gunnar Myhre
+Author: BjÃ¸rn H. Samset and Gunnar Myhre
