@@ -13,7 +13,7 @@ Netcdf files containing data for radiative kernels.
 
 The data are documented in the article [Skeie et al. 2020](https://www.nature.com/articles/s41612-020-00131-0) and and Collins et al. (in prep.)
 
-Author: �ivind Hodnebrog
+Author: Øivind Hodnebrog
 
 ## PDRMIP kernel data
 
@@ -36,4 +36,4 @@ Author: Gunnar Myhre
 
 The calculations and the radiative properties assumed for the aerosols are documented in [Samset and Myhre 2011, GRL](https://doi.org/10.1029/2011GL049697)
 
-Author: Bj�rn H. Samset and Gunnar Myhre
+Author: Bjørn H. Samset and Gunnar Myhre
