@@ -1,0 +1,17 @@
+cff-version: 1.0.0
+message: "CICERO Radiative Kernels please cite this as detailed below"
+authors:
+  - family-names: Hodnebrog
+    given-names: Øivind
+  - family-names: Samset
+    given-names: Bjørn Hallvard
+  - family-names: Skeie
+    given-names: Ragnhild Bieltvedt
+  - family-names: Myhre
+    given-names: Gunnar
+title: "CICERO ozone, aerosol and PDRMIP kernels"
+version: 1.0.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.16759214
+date-released: 2025-08-07
